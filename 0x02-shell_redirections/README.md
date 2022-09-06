@@ -1,1 +1,1 @@
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+a shell script that creates a file named exactly containing the text Best School ending by a new line
